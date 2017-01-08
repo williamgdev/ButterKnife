@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ButterKnife</string>
+    <string name="hello_butterknife">Hello butterKnife!!!</string>
 </resources>
